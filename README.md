@@ -1,5 +1,7 @@
 ## 从头详细学一遍Express
 
+### 项目搭建
+
 1.  安装脚手架express-generator
 ```
 // 全局安装
